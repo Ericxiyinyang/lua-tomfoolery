@@ -4,7 +4,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" width="200">
 
-## If You're Somehow Still Here
+## If You're Still Somehow Here
 
 This repo follows Roberto lerusalimschy's _Programming in Lua: 4th Edition_ book. Feel free to take my code snippets if they're of any use!
 
